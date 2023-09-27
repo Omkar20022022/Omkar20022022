@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Kadam</h1>
 <h3 align="center">A software developer from India</h3>
 
-<img width="400" align="right" alt="coding" src="https://github.com/Omkar20022022/GIF/blob/main/59871c7fb4ca4d906e9ef1f4566cd378.gif?raw=true">
+<img width="300" align="right" alt="coding" src="https://github.com/Omkar20022022/GIF/blob/main/59871c7fb4ca4d906e9ef1f4566cd378.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar20022022&label=Profile%20views&color=0e75b6&style=flat" alt="omkar20022022" /> </p>
 
@@ -31,5 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkar20022022&show_icons=true&locale=en" alt="omkar20022022" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar20022022&" alt="omkar20022022" /></p>
+
 
